@@ -21,7 +21,7 @@ I build usable software with Python, C++, TypeScript, and applied AI workflows, 
 - Tools: CMake, npm, Vitest, PyInstaller, GitHub Releases
 - Domains: Applied AI, desktop utilities, factory maintenance workflows, web apps, backtesting simulations
 
-## 繁體中文摘要
+## 摘要
 
 - 我主要使用 Python、C++、TypeScript 與 JavaScript 建立可執行、可展示的實用工具。
 - 目前作品集中包含 PDF 轉 PowerPoint、自動化文件處理、AI 聊天介面、本機 AI 測試與桌面工具。
